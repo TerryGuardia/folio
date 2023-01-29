@@ -1,0 +1,15 @@
+.position-relative img{
+    filter: brightness(50%);
+    transition: filter .2s linear;
+}
+.position-relative img:hover {
+    filter: brightness(80%);
+}
+.mt-15 {
+    margin-top: 15%;
+}
+.text-position {
+    bottom:0;
+    left:0;
+    right:0;
+}
