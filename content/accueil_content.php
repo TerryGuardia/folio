@@ -5,7 +5,7 @@
     </div>
     <div class="mt-15 d-flex justify-content-evenly">
     </div>
-    <div class="row">
+    <div class="row g-0">
         <div class="col-10 offset-1 col-md-6 offset-md-0 col-lg-4 mb-3">
             <a href="index.php?page=realisations">
                 <div class="position-relative">
@@ -16,7 +16,6 @@
                 </div>
             </a>
         </div>
-
         <div class="col-10 offset-1 col-md-6 offset-md-0 col-lg-4 mb-3">
             <a href="index.php?page=veilles">
                 <div class="position-relative">
@@ -24,17 +23,17 @@
                     <div class="text-center text-white position-absolute text-position">
                         <h3 class="display-5">VEILLES<br>TECHNOLOGIQUES</h3>
                     </div>
+                </div>
+            </a>
+        </div>
+        <div class="col-10 offset-1 col-md-6 offset-md-0 col-lg-4 mb-3">
+            <a href="index.php?page=cv">
+                <div class="position-relative">
+                    <img src="assets/cv.jpg" alt="Image 3" class="img-fluid">
+                    <div class="text-center text-white position-absolute text-position">
+                        <h3 class="display-5">MON CV</h3>
+                    </div>
+                </div>
             </a>
         </div>
     </div>
-    <div class="col-10 offset-1 col-md-6 offset-md-0 col-lg-4 mb-3">
-        <a href="index.php?page=cv">
-            <div class="position-relative">
-                <img src="assets/cv.jpg" alt="Image 3" class="img-fluid">
-                <div class="text-center text-white position-absolute text-position">
-                    <h3 class="display-5">MON CV</h3>
-                </div>
-            </div>
-        </a>
-    </div>
-</div>
