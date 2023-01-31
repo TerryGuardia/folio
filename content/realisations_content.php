@@ -1,9 +1,10 @@
 <div class="container mt-5">
-    <h2 class="text-center">Réalisations</h2>
+    <h1 class="text-center my-5">Réalisations</h1>
+    <h2>Projets</h2>
     <div class="row">
         <div class="col-8 offset-2 offset-md-0 col-md-6 col-xl-4 mt-3">
             <div class="card">
-                <img src="assets/badminton.png" class="" alt="Projet 1">
+                <img src="assets/badminton.png" class="card-img-top" alt="Projet 1">
                 <div class="card-body">
                     <h5 class="card-title">Badminton</h5>
                     <p class="card-text">Projet ayant pour but la découverte de l'intégration PHP, il s'agit à la base d'un template Bootstrap que j'ai reconstruit.</p>
@@ -41,7 +42,7 @@
 </div>
 
 <div class="container mt-5">
-    <h2 class="text-center">Javascript</h2>
+    <h2>Javascript</h2>
     <div class="row">
         <div class="col-8 offset-2 offset-md-0 col-md-6 col-xl-4 mt-3">
             <div class="card">
