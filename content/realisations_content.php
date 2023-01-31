@@ -52,7 +52,7 @@
                     <p class="card-text">Lecteur audio réalisé en JavaScript et HTML/CSS, il contient les fonctionnalités classiques.</p>
                     <div class="container d-flex justify-content-between">
                         <a href="https://guardia.needemand.com/realisation/lecteur/" class="btn btn-primary">Voir le site</a>
-                        <a href="https://github.com/TerryGuardia/lecteur-audio" class="btn btn-primary">Voir le repo Github</a>
+                        <a href="https://github.com/TerryGuardia/lecteur" class="btn btn-primary">Voir le repo Github</a>
                     </div>
                 </div>
             </div>
