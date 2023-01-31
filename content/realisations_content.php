@@ -1,6 +1,6 @@
 <div class="container mt-5">
-    <h1 class="text-center my-5">Réalisations</h1>
-    <h2>Projets</h2>
+    <h1 class="my-5 under">Réalisations</h1>
+    <h2 class="under">Projets</h2>
     <div class="row">
         <div class="col-8 offset-2 offset-md-0 col-md-6 col-xl-4 mt-3">
             <div class="card">
@@ -42,7 +42,7 @@
 </div>
 
 <div class="container mt-5">
-    <h2>Javascript</h2>
+    <h2 class="under">Javascript</h2>
     <div class="row">
         <div class="col-8 offset-2 offset-md-0 col-md-6 col-xl-4 mt-3">
             <div class="card">
